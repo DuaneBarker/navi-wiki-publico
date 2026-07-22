@@ -11,12 +11,13 @@ paso_rutina: sellado
 precio_mxn: null
 costo_mxn: null
 margen_pct: null
-proveedor: Stylevana
 ingredientes: [pdrn, acido-hialuronico]
 skin_concerns: [deshidratacion]
 tags: [deal, mini]
 ultima_sync_wc: null
 ---
+
+> ⚠️ Producto no vinculado a WooCommerce (`wc_id: null` en frontmatter) — sin imagen ni ficha en tienda por ahora.
 
 # PDRN Hyaluronic Acid 100 Moisturizing Cream (10ml)
 

@@ -11,12 +11,15 @@ paso_rutina: tratamiento
 precio_mxn: 377.38
 costo_mxn: 162.67
 margen_pct: 56.9
-proveedor: Stylevana
 ingredientes: [retinal]
 skin_concerns: [firmeza]
 tags: []
 ultima_sync_wc: 2026-07-04
 ---
+
+![CELIMAX- The Vita-A Retinal Shot Tightening Booster](https://navishop.com.mx/wp-content/uploads/2026/01/CELIMAX-The-Vita-A-Retinal-Shot-Tightening-Booster.jpg)
+
+[Ver ficha completa en tienda →](https://navishop.com.mx/product/celimax-the-vita-a-retinal-shot-tightening-booster/)
 
 # The Vita-A Retinal Shot Tightening Booster
 

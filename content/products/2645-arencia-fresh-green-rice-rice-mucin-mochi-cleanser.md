@@ -11,12 +11,15 @@ paso_rutina: limpieza
 precio_mxn: 1199.97
 costo_mxn: 517.23
 margen_pct: 56.9
-proveedor: Stylevana
 ingredientes: [rice-extract]
 skin_concerns: [barrera-danada]
 tags: []
 ultima_sync_wc: 2026-07-04
 ---
+
+![Arencia – Fresh Green Rice & Rice Mucin Mochi Cleanser](https://navishop.com.mx/wp-content/uploads/2026/02/Arencia-–-Fresh-Green-Rice-Rice-Mucin-Mochi-Cleanser_1.jpg)
+
+[Ver ficha completa en tienda →](https://navishop.com.mx/product/arencia-fresh-green-rice-rice-mucin-mochi-cleanser/)
 
 # Fresh Green Rice & Rice Mucin Mochi Cleanser
 

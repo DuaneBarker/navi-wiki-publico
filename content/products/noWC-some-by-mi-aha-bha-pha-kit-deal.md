@@ -11,12 +11,13 @@ paso_rutina: tratamiento
 precio_mxn: null
 costo_mxn: null
 margen_pct: null
-proveedor: Stylevana
 ingredientes: [aha-bha-pha, pha]
 skin_concerns: [acne]
 tags: [deal]
 ultima_sync_wc: null
 ---
+
+> ⚠️ Producto no vinculado a WooCommerce (`wc_id: null` en frontmatter) — sin imagen ni ficha en tienda por ahora.
 
 # AHA-BHA-PHA 30 Days Miracle Acne SOS Kit (DEAL)
 

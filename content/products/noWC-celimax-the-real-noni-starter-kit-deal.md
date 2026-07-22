@@ -11,12 +11,13 @@ paso_rutina: preparacion
 precio_mxn: null
 costo_mxn: null
 margen_pct: null
-proveedor: Stylevana
 ingredientes: [noni-extract]
 skin_concerns: [deshidratacion]
 tags: [deal]
 ultima_sync_wc: null
 ---
+
+> ⚠️ Producto no vinculado a WooCommerce (`wc_id: null` en frontmatter) — sin imagen ni ficha en tienda por ahora.
 
 # The Real Noni Starter Kit (DEAL)
 

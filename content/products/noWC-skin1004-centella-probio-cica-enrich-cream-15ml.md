@@ -11,12 +11,13 @@ paso_rutina: sellado
 precio_mxn: null
 costo_mxn: null
 margen_pct: null
-proveedor: Stylevana
 ingredientes: [probio-cica, cica]
 skin_concerns: [sensibilidad]
 tags: [deal, mini]
 ultima_sync_wc: null
 ---
+
+> ⚠️ Producto no vinculado a WooCommerce (`wc_id: null` en frontmatter) — sin imagen ni ficha en tienda por ahora.
 
 # Madagascar Centella Probio-Cica Enrich Cream (15ml)
 

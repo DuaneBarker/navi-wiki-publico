@@ -11,12 +11,13 @@ paso_rutina: tratamiento
 precio_mxn: null
 costo_mxn: null
 margen_pct: null
-proveedor: Stylevana
 ingredientes: [nad-complex]
 skin_concerns: [firmeza]
 tags: [deal, mini]
 ultima_sync_wc: null
 ---
+
+> ⚠️ Producto no vinculado a WooCommerce (`wc_id: null` en frontmatter) — sin imagen ni ficha en tienda por ahora.
 
 # No. 9 NAD Bio Lifting Essence 3-in-1 Sachet
 

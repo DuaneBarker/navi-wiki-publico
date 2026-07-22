@@ -11,12 +11,15 @@ paso_rutina: preparacion
 precio_mxn: 178.65
 costo_mxn: 77.01
 margen_pct: 56.9
-proveedor: Stylevana
 ingredientes: [hydrocolloid]
 skin_concerns: [acne]
 tags: []
 ultima_sync_wc: 2026-07-04
 ---
+
+![COSRX – Acne Pimple Master Patch](https://navishop.com.mx/wp-content/uploads/2026/02/COSRX-–-Acne-Pimple-Master-Patch_1.jpg)
+
+[Ver ficha completa en tienda →](https://navishop.com.mx/product/cosrx-acne-pimple-master-patch/)
 
 # Acne Pimple Master Patch
 

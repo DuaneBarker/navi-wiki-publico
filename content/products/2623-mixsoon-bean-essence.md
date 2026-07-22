@@ -11,12 +11,15 @@ paso_rutina: tratamiento
 precio_mxn: 588.95
 costo_mxn: 253.86
 margen_pct: 56.9
-proveedor: Stylevana
 ingredientes: [fermented-bean]
 skin_concerns: [textura-irregular]
 tags: []
 ultima_sync_wc: 2026-07-04
 ---
+
+![mixsoon - Bean Essence](https://navishop.com.mx/wp-content/uploads/2026/01/mixsoon-Bean-Essence.jpg)
+
+[Ver ficha completa en tienda →](https://navishop.com.mx/product/mixsoon-bean-essence/)
 
 # Bean Essence
 

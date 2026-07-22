@@ -11,12 +11,13 @@ paso_rutina: tratamiento
 precio_mxn: null
 costo_mxn: null
 margen_pct: null
-proveedor: Stylevana
 ingredientes: [collagen]
 skin_concerns: [textura-opaca]
 tags: [deal, mini]
 ultima_sync_wc: null
 ---
+
+> ⚠️ Producto no vinculado a WooCommerce (`wc_id: null` en frontmatter) — sin imagen ni ficha en tienda por ahora.
 
 # Collagen Glow Booster Serum (15ml)
 

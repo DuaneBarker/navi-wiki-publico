@@ -11,12 +11,15 @@ paso_rutina: sellado
 precio_mxn: 636.76
 costo_mxn: 274.46
 margen_pct: 56.9
-proveedor: Stylevana
 ingredientes: [glutathione]
 skin_concerns: [tono-apagado]
 tags: []
 ultima_sync_wc: 2026-07-04
 ---
+
+![medicube – Age-R Glutathione Glow Capsule Cream](https://navishop.com.mx/wp-content/uploads/2026/02/medicube-–-Age-R-Glutathione-Glow-Capsule-Cream_1.jpg)
+
+[Ver ficha completa en tienda →](https://navishop.com.mx/product/medicube-age-r-glutathione-glow-capsule-cream/)
 
 # Age-R Glutathione Glow Capsule Cream
 

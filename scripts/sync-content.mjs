@@ -23,6 +23,22 @@ const ALLOWED_FOLDERS = ["products", "brands", "ingredients", "skin-concerns", "
 // texto plano visible en el sitio público.
 const REDACT_LINK_PREFIXES = ["suppliers/", "partners/", "campaigns/", "competitors/", "personas/"]
 
+// Claves de frontmatter YAML que se eliminan por completo del archivo copiado
+// (no solo el wikilink en el cuerpo) porque su valor identifica a un tercero
+// interno (proveedor, partner) que no debe quedar visible en el repo público.
+const REDACT_FRONTMATTER_KEYS = ["proveedor"]
+
+// Secciones completas (heading exacto hasta el siguiente heading, cualquier
+// nivel) que se eliminan del cuerpo porque por convención son notas internas
+// dirigidas al equipo (ej. "## Nota operacional") y no contenido para el
+// sitio público.
+const REDACT_SECTION_HEADINGS = ["## Nota operacional"]
+
+// Archivos puntuales que, aunque vivan dentro de una carpeta permitida, no se
+// publican porque su contenido es de estrategia/research interno, no
+// "inspiración" pública. Ruta relativa a SOURCE_WIKI (con /).
+const EXCLUDED_FILES = ["inspiration/blueprint-diseno-web-v1.md"]
+
 const EXCLUDED_NOTE = [
   "partners/",
   "suppliers/",
@@ -32,6 +48,8 @@ const EXCLUDED_NOTE = [
   "index.md, log.md, trends.md, validation-report.md (archivos sueltos en wiki/)",
   "04-Finanzas (fuera de wiki/, nunca tocado)",
   "docs/sesiones (fuera de wiki/, nunca tocado)",
+  "frontmatter 'proveedor:' (redactado de cada archivo copiado)",
+  ...EXCLUDED_FILES,
 ]
 
 if (!existsSync(SOURCE_WIKI)) {
@@ -55,6 +73,7 @@ for (const folder of ALLOWED_FOLDERS) {
   }
   mkdirSync(dest, { recursive: true })
   cpSync(src, dest, { recursive: true })
+  removeExcludedFiles(folder, dest)
 
   const count = countFiles(dest)
   totalFiles += count
@@ -82,10 +101,17 @@ function redactExcludedLinks(dir) {
 
     const original = readFileSync(full, "utf-8")
     const lines = original.split("\n")
-    const kept = lines.filter((line) => {
+    const withoutSections = stripRedactedSections(lines)
+    redactedCount += lines.length - withoutSections.length
+
+    const kept = withoutSections.filter((line) => {
       const hasExcludedLink = REDACT_LINK_PREFIXES.some((prefix) => line.includes(`[[${prefix}`))
-      if (hasExcludedLink) redactedCount++
-      return !hasExcludedLink
+      const hasExcludedFrontmatterKey = REDACT_FRONTMATTER_KEYS.some((key) =>
+        new RegExp(`^${key}\\s*:`).test(line),
+      )
+      const shouldRedact = hasExcludedLink || hasExcludedFrontmatterKey
+      if (shouldRedact) redactedCount++
+      return !shouldRedact
     })
 
     if (kept.length !== lines.length) {
@@ -93,6 +119,34 @@ function redactExcludedLinks(dir) {
     }
   }
   return redactedCount
+}
+
+function stripRedactedSections(lines) {
+  const out = []
+  let skipping = false
+  for (const line of lines) {
+    if (REDACT_SECTION_HEADINGS.includes(line.trim())) {
+      skipping = true
+      continue
+    }
+    if (skipping && /^#{1,6}\s/.test(line)) {
+      skipping = false
+    }
+    if (!skipping) out.push(line)
+  }
+  return out
+}
+
+function removeExcludedFiles(folder, dest) {
+  for (const excluded of EXCLUDED_FILES) {
+    if (!excluded.startsWith(`${folder}/`)) continue
+    const relative = excluded.slice(folder.length + 1)
+    const full = path.join(dest, relative)
+    if (existsSync(full)) {
+      rmSync(full)
+      console.log(`  ⛔ ${excluded} excluido explícitamente, no publicado.`)
+    }
+  }
 }
 
 function countFiles(dir) {

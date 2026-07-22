@@ -11,12 +11,15 @@ paso_rutina: sellado
 precio_mxn: 328.17
 costo_mxn: 141.45
 margen_pct: 56.9
-proveedor: Stylevana
 ingredientes: [centella-asiatica]
 skin_concerns: [arrugas]
 tags: []
 ultima_sync_wc: 2026-07-04
 ---
+
+![CENTELLIAN 24 – Madeca Cream Time Reverse](https://navishop.com.mx/wp-content/uploads/2026/01/CENTELLIAN-24-–-Madeca-Cream-Time-Reverse.jpg)
+
+[Ver ficha completa en tienda →](https://navishop.com.mx/product/centellian-24-madeca-cream-time-reverse/)
 
 # Madeca Cream Time Reverse (Season7)
 

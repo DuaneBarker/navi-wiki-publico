@@ -11,12 +11,15 @@ paso_rutina: sellado
 precio_mxn: null
 costo_mxn: null
 margen_pct: null
-proveedor: Stylevana
 ingredientes: [ceramidas]
 skin_concerns: [barrera-danada]
 tags: []
 ultima_sync_wc: 2026-07-04
 ---
+
+![Dr. Althea - 147 Barrier Cream](https://navishop.com.mx/wp-content/uploads/2026/01/Dr.-Althea-147-Barrier-Cream.avif)
+
+[Ver ficha completa en tienda →](https://navishop.com.mx/product/dr-althea-147-barrier-cream/)
 
 # 147 Barrier Cream
 

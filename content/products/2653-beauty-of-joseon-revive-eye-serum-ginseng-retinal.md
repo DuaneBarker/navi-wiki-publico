@@ -11,12 +11,15 @@ paso_rutina: tratamiento
 precio_mxn: 573.71
 costo_mxn: 247.29
 margen_pct: 56.9
-proveedor: Stylevana
 ingredientes: [retinal, ginseng]
 skin_concerns: [arrugas]
 tags: []
 ultima_sync_wc: 2026-07-04
 ---
+
+![Beauty of Joseon – Revive Eye Serum (Ginseng + Retinal)](https://navishop.com.mx/wp-content/uploads/2026/02/Beauty-of-Joseon-–-Revive-Eye-Serum-Ginseng-Retinal_1.jpg)
+
+[Ver ficha completa en tienda →](https://navishop.com.mx/product/beauty-of-joseon-revive-eye-serum-ginseng-retinal/)
 
 # Revive Eye Serum: Ginseng + Retinal
 

@@ -11,12 +11,15 @@ paso_rutina: sellado
 precio_mxn: 813.40
 costo_mxn: 350.60
 margen_pct: 56.9
-proveedor: Stylevana
 ingredientes: [centella-asiatica]
 skin_concerns: [sensibilidad]
 tags: []
 ultima_sync_wc: 2026-07-04
 ---
+
+![Dr. Althea – 345 Relief Cream](https://navishop.com.mx/wp-content/uploads/2026/01/Dr.-Althea-345-Relief-Cream.webp)
+
+[Ver ficha completa en tienda →](https://navishop.com.mx/product/dr-althea-345-relief-cream/)
 
 # 345 Relief Cream
 

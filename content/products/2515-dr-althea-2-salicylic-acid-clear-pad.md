@@ -11,12 +11,15 @@ paso_rutina: preparacion
 precio_mxn: 543.04
 costo_mxn: 234.07
 margen_pct: 56.9
-proveedor: Stylevana
 ingredientes: [bha-acido-salicilico]
 skin_concerns: [acne]
 tags: []
 ultima_sync_wc: 2026-07-04
 ---
+
+![Dr. Althea – 2% Salicylic Acid Clear Pad](https://navishop.com.mx/wp-content/uploads/2026/01/Dr.-Althea-2-Salicylic-Acid-Clear-Pad.webp)
+
+[Ver ficha completa en tienda →](https://navishop.com.mx/product/dr-althea-2-salicylic-acid-clear-pad/)
 
 # 2% Salicylic Acid Clear Pad
 

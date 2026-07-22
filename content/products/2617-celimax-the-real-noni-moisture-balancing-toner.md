@@ -11,12 +11,15 @@ paso_rutina: preparacion
 precio_mxn: 604.20
 costo_mxn: 260.43
 margen_pct: 56.9
-proveedor: Stylevana
 ingredientes: [noni-extract]
 skin_concerns: [deshidratacion]
 tags: []
 ultima_sync_wc: 2026-07-04
 ---
+
+![CELIMAX - The Real Noni Moisture Balancing Toner](https://navishop.com.mx/wp-content/uploads/2026/01/CELIMAX-The-Real-Noni-Moisture-Balancing-Toner.webp)
+
+[Ver ficha completa en tienda →](https://navishop.com.mx/product/celimax-the-real-noni-moisture-balancing-toner/)
 
 # The Real Noni Moisture Balancing Toner
 
