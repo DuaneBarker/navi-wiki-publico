@@ -11,6 +11,12 @@ evitar_combinar_con: []
 ## Qué hace en skincare
 "Cica" es el término comercial K-beauty para formulaciones **concentradas en Centella asiática** y sus fracciones (madecassósido, ácido asiático). Enfocadas en calmar, reparar barrera y reducir enrojecimiento en piel sensible, reactiva o post-procedimiento. Es la centella "en dosis de tratamiento", no un ingrediente distinto.
 
+## Origen y proceso de obtención
+[pendiente]
+
+## Dato curioso
+[pendiente]
+
 ## Concentraciones comunes
 Variable; cremas "cica" suelen concentrar extracto y/o madecassósido a fines terapéuticos cosméticos. Ver [[ingredients/centella-asiatica]] y [[ingredients/madecassoside]].
 

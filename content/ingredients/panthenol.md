@@ -11,6 +11,12 @@ evitar_combinar_con: []
 ## Qué hace en skincare
 Pro-vitamina B5; se convierte en ácido pantoténico en la piel. Humectante y emoliente que mejora hidratación, calma irritación y apoya la reparación de barrera y la cicatrización superficial. Muy usado para amortiguar activos fuertes.
 
+## Origen y proceso de obtención
+[pendiente]
+
+## Dato curioso
+[pendiente]
+
 ## Concentraciones comunes
 1–5%.
 

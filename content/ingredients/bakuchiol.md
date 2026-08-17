@@ -11,6 +11,12 @@ evitar_combinar_con: []
 ## Qué hace en skincare
 Compuesto botánico (de Psoralea corylifolia) que actúa como **alternativa al retinol**: estudios muestran mejoras comparables en arrugas e hiperpigmentación con menos irritación, aunque no es químicamente un retinoide. Antioxidante y calmante.
 
+## Origen y proceso de obtención
+[pendiente]
+
+## Dato curioso
+[pendiente]
+
 ## Concentraciones comunes
 0.5–2%.
 

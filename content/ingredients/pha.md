@@ -11,6 +11,12 @@ evitar_combinar_con: []
 ## Qué hace en skincare
 Poli-hidroxiácidos (gluconolactona, ácido lactobiónico). Exfoliantes de la familia de los AHA pero de **molécula más grande**: penetran más lento y superficialmente, por lo que exfolian con **mucha menos irritación**. Además son humectantes y antioxidantes. Opción para piel sensible que no tolera AHA/BHA.
 
+## Origen y proceso de obtención
+[pendiente]
+
+## Dato curioso
+[pendiente]
+
 ## Concentraciones comunes
 4–10%.
 

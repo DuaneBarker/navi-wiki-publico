@@ -11,6 +11,12 @@ evitar_combinar_con: ["[[ingredients/retinal]]"]
 ## Qué hace en skincare
 Antioxidante. La forma pura (ácido L-ascórbico) neutraliza radicales libres, es cofactor en la síntesis de colágeno y aclara hiperpigmentación al interferir en la melanogénesis. Existen derivados más estables pero de eficacia variable (ascorbil glucósido, MAP, etc.).
 
+## Origen y proceso de obtención
+[pendiente]
+
+## Dato curioso
+[pendiente]
+
 ## Concentraciones comunes
 L-ascórbico: 10–20% (por encima de 20% no mejora y sí irrita). Derivados: variable.
 

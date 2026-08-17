@@ -34,10 +34,19 @@ const REDACT_FRONTMATTER_KEYS = ["proveedor"]
 // sitio público.
 const REDACT_SECTION_HEADINGS = ["## Nota operacional"]
 
+// Líneas sueltas (por prefijo, tras trim) que se eliminan porque por
+// convención mezclan estado del producto con datos internos (proveedor,
+// referencias a ADRs/documentos internos) — ej. notas de descontinuación.
+const REDACT_LINE_PREFIXES = ["- **Descontinuado"]
+
 // Archivos puntuales que, aunque vivan dentro de una carpeta permitida, no se
 // publican porque su contenido es de estrategia/research interno, no
 // "inspiración" pública. Ruta relativa a SOURCE_WIKI (con /).
-const EXCLUDED_FILES = ["inspiration/blueprint-diseno-web-v1.md"]
+const EXCLUDED_FILES = [
+  "inspiration/blueprint-diseno-web-v1.md",
+  // El propio archivo se autodeclara "Solo referencia interna — nunca se publican".
+  "inspiration/taste-library.md",
+]
 
 const EXCLUDED_NOTE = [
   "partners/",
@@ -49,6 +58,7 @@ const EXCLUDED_NOTE = [
   "04-Finanzas (fuera de wiki/, nunca tocado)",
   "docs/sesiones (fuera de wiki/, nunca tocado)",
   "frontmatter 'proveedor:' (redactado de cada archivo copiado)",
+  "líneas '- **Descontinuado...' (redactadas de cada archivo copiado)",
   ...EXCLUDED_FILES,
 ]
 
@@ -109,7 +119,8 @@ function redactExcludedLinks(dir) {
       const hasExcludedFrontmatterKey = REDACT_FRONTMATTER_KEYS.some((key) =>
         new RegExp(`^${key}\\s*:`).test(line),
       )
-      const shouldRedact = hasExcludedLink || hasExcludedFrontmatterKey
+      const hasExcludedLinePrefix = REDACT_LINE_PREFIXES.some((prefix) => line.trim().startsWith(prefix))
+      const shouldRedact = hasExcludedLink || hasExcludedFrontmatterKey || hasExcludedLinePrefix
       if (shouldRedact) redactedCount++
       return !shouldRedact
     })

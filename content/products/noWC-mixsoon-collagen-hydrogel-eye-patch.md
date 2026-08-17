@@ -3,7 +3,7 @@ tipo: producto
 schema: 1
 nombre: "Collagen Hydrogel Eye Patch (84g/30 pairs)"
 marca: mixsoon
-wc_id: null
+wc_id: 2628
 publicado: no-publicado
 linea: skincare
 categoria: "Tratamientos — Contorno de Ojos"
@@ -17,7 +17,7 @@ tags: [deal]
 ultima_sync_wc: null
 ---
 
-> ⚠️ Producto no vinculado a WooCommerce (`wc_id: null` en frontmatter) — sin imagen ni ficha en tienda por ahora.
+> ℹ️ Existe en WooCommerce (`wc_id: 2628`, SKU `BVASSTV01318NOC01P0030`) en estado `private` — no visible en la tienda pública. Confirmado vía GET de solo lectura (sesión 45, 24-jul-2026).
 
 # Collagen Hydrogel Eye Patch (84g/30 pairs)
 

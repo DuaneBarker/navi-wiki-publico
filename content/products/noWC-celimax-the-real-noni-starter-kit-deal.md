@@ -3,7 +3,7 @@ tipo: producto
 schema: 1
 nombre: "The Real Noni Starter Kit (DEAL)"
 marca: CELIMAX
-wc_id: null
+wc_id: 2611
 publicado: no-publicado
 linea: skincare
 categoria: "Rutinas & Sets — Sets / Kits"
@@ -17,7 +17,7 @@ tags: [deal]
 ultima_sync_wc: null
 ---
 
-> ⚠️ Producto no vinculado a WooCommerce (`wc_id: null` en frontmatter) — sin imagen ni ficha en tienda por ahora.
+> ℹ️ Existe en WooCommerce (`wc_id: 2611`, SKU `BVASSTV02472NOC01S0002`) en estado `private` — no visible en la tienda pública. Confirmado vía GET de solo lectura (sesión 45, 24-jul-2026).
 
 # The Real Noni Starter Kit (DEAL)
 

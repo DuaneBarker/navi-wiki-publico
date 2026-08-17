@@ -11,6 +11,12 @@ evitar_combinar_con: []
 ## Qué hace en skincare
 Lisado de fermento de Bifidobacterium (probiótico). Aporta metabolitos, aminoácidos y ácido hialurónico que apoyan la barrera y el microbioma cutáneo; se le atribuyen efectos calmantes, hidratantes y de defensa antioxidante/reparación frente a estrés ambiental. Base de las esencias "fermentadas" tipo essence.
 
+## Origen y proceso de obtención
+[pendiente]
+
+## Dato curioso
+[pendiente]
+
 ## Concentraciones comunes
 A menudo alto % como base de esencia; efecto de acondicionamiento más que dosis-dependiente.
 

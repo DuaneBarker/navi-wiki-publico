@@ -11,6 +11,12 @@ evitar_combinar_con: []
 ## Qué hace en skincare
 Antioxidante y tripéptido que en el cuerpo modula la producción de melanina (favorece feomelanina más clara). Es la molécula de moda "para aclarar". **Su eficacia tópica está poco demostrada** (molécula inestable y de penetración limitada); la evidencia real proviene sobre todo de vías oral/IV, no del uso cosmético. Como antioxidante tópico sí aporta.
 
+## Origen y proceso de obtención
+[pendiente]
+
+## Dato curioso
+[pendiente]
+
 ## Concentraciones comunes
 Suele rondar 1–2% tópico; sin estándar de eficacia consolidado.
 

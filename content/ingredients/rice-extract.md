@@ -11,6 +11,12 @@ evitar_combinar_con: []
 ## Qué hace en skincare
 Extracto/agua/fermento de arroz rico en aminoácidos, vitaminas del grupo B, ácido ferúlico y almidones. Humecta, aporta luminosidad ("glow") y antioxidantes suaves; base de la tradición coreana de "piel de vidrio". Efecto más de acondicionamiento y brillo que de activo transformador.
 
+## Origen y proceso de obtención
+[pendiente]
+
+## Dato curioso
+[pendiente]
+
 ## Concentraciones comunes
 Alta como base acuosa (tóners tipo "70% rice"), pero es humectante suave, no un activo dosis-dependiente.
 

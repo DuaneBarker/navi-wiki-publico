@@ -11,6 +11,12 @@ evitar_combinar_con: []
 ## Qué hace en skincare
 Según la forma: **zinc PCA** regula sebo, es antibacteriano y calmante (útil en piel grasa/acné); **óxido de zinc** es filtro solar físico y calmante de barrera. Antiinflamatorio en general. En K-beauty aparece sobre todo como control de grasa y soporte anti-brotes.
 
+## Origen y proceso de obtención
+[pendiente]
+
+## Dato curioso
+[pendiente]
+
 ## Concentraciones comunes
 Zinc PCA: fracciones de 1%. Óxido de zinc (SPF): hasta ~25%.
 

@@ -11,6 +11,12 @@ evitar_combinar_con: []
 ## Qué hace en skincare
 Resina producida por abejas, rica en flavonoides. Antioxidante, antibacteriana y calmante; da sensación nutritiva y aporta a piel apagada o con tendencia a brotes. Popular en esencias y ampollas "glow".
 
+## Origen y proceso de obtención
+[pendiente]
+
+## Dato curioso
+[pendiente]
+
 ## Concentraciones comunes
 Variable; algunos productos declaran 10%+ de extracto de propóleo.
 

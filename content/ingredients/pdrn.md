@@ -11,6 +11,12 @@ evitar_combinar_con: []
 ## Qué hace en skincare
 Polidesoxirribonucleótido — fragmentos de ADN (típicamente de esperma de salmón/trucha). En medicina estética inyectable hay evidencia de estímulo de reparación tisular vía receptor de adenosina. **Tópicamente su eficacia está poco respaldada**: la molécula es grande y la penetración es cuestionable; los claims cosméticos de "regeneración" son en gran parte marketing. Funciona como humectante/film-former agradable.
 
+## Origen y proceso de obtención
+[pendiente]
+
+## Dato curioso
+[pendiente]
+
 ## Concentraciones comunes
 No hay estándar cosmético; el % rara vez se declara de forma significativa. Dato dirigido por marketing.
 

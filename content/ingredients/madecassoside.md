@@ -11,6 +11,12 @@ evitar_combinar_con: []
 ## Qué hace en skincare
 Triterpeno aislado de la Centella asiática, la fracción más estudiada por su acción antiinflamatoria y de soporte a la reparación de barrera y síntesis de colágeno. Versión purificada y más potente/consistente que el extracto crudo de centella.
 
+## Origen y proceso de obtención
+[pendiente]
+
+## Dato curioso
+[pendiente]
+
 ## Concentraciones comunes
 0.1–1%.
 

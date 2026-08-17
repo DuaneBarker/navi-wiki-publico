@@ -11,6 +11,12 @@ evitar_combinar_con: []
 ## Qué hace en skincare
 Lípidos que forman parte natural del "cemento" intercelular de la barrera cutánea. Reponerlas tópicamente restaura la función barrera, reduce pérdida de agua transepidérmica y calma piel seca/sensible/dañada. Núcleo de la reparación de barrera junto a colesterol y ácidos grasos.
 
+## Origen y proceso de obtención
+[pendiente]
+
+## Dato curioso
+[pendiente]
+
 ## Concentraciones comunes
 0.1–1% (funcionan mejor en proporción fisiológica con colesterol y ácidos grasos).
 

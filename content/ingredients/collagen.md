@@ -11,6 +11,12 @@ evitar_combinar_con: []
 ## Qué hace en skincare
 Colágeno hidrolizado tópico. La molécula es demasiado grande para reponer el colágeno dérmico ("no penetra a la dermis"); actúa como **humectante y film-former** que suaviza y da efecto tersura temporal. No confundir con estimular colágeno propio (eso lo hacen retinoides, vit C, péptidos).
 
+## Origen y proceso de obtención
+[pendiente]
+
+## Dato curioso
+[pendiente]
+
 ## Concentraciones comunes
 Variable; usado más por textura/claim que por concentración activa.
 

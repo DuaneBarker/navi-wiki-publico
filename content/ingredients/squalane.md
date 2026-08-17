@@ -11,6 +11,12 @@ evitar_combinar_con: []
 ## Qué hace en skincare
 Emoliente/oclusivo ligero. Versión **hidrogenada y estable** del escualeno (lípido presente de forma natural en el sebo humano), hoy mayormente de origen vegetal (caña/oliva). Suaviza, reduce pérdida de agua y da confort sin sensación pesada ni comedogenicidad significativa. Excelente para sellar rutinas y calmar piel seca.
 
+## Origen y proceso de obtención
+[pendiente]
+
+## Dato curioso
+[pendiente]
+
 ## Concentraciones comunes
 Hasta 100% (aceites) o como emoliente dentro de cremas.
 

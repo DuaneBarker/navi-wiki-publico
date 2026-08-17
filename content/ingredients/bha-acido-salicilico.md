@@ -11,6 +11,12 @@ evitar_combinar_con: ["[[ingredients/retinal]]", "[[ingredients/aha-bha-pha]]"]
 ## Qué hace en skincare
 Beta-hidroxiácido liposoluble. Penetra en el poro sebáceo y exfolia dentro de él, disolviendo sebo y células muertas. Ideal para acné, comedones, poros dilatados y piel grasa. Antiinflamatorio (pariente de la aspirina).
 
+## Origen y proceso de obtención
+[pendiente]
+
+## Dato curioso
+[pendiente]
+
 ## Concentraciones comunes
 0.5–2% (2% es el máximo OTC habitual).
 

@@ -11,6 +11,12 @@ evitar_combinar_con: ["[[ingredients/vitamina-c]]"]
 ## Qué hace en skincare
 Cadenas cortas de aminoácidos que actúan como señales. Según el tipo: señalizadores (estimulan colágeno), transportadores (péptidos de cobre), o inhibidores neuromusculares tipo "argireline" (relajan la contracción, efecto "bótox-like" leve y debatido). En conjunto apuntan a firmeza y líneas finas; la evidencia es moderada y depende mucho del péptido y la formulación.
 
+## Origen y proceso de obtención
+[pendiente]
+
+## Dato curioso
+[pendiente]
+
 ## Concentraciones comunes
 Muy variable según péptido; rara vez comparable entre productos.
 

@@ -11,6 +11,12 @@ evitar_combinar_con: []
 ## Qué hace en skincare
 Inhibe la vía plasmina/plasminógeno en el queratinocito, reduciendo la señalización que dispara la melanogénesis inducida por inflamación y UV. Actúa sobre manchas, melasma e hiperpigmentación post-inflamatoria.
 
+## Origen y proceso de obtención
+[pendiente]
+
+## Dato curioso
+[pendiente]
+
 ## Concentraciones comunes
 2–5% tópico. (En melasma clínico también se usa oral, pero eso es prescripción médica, no cosmética.)
 

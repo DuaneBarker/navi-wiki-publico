@@ -3,7 +3,7 @@ tipo: producto
 schema: 1
 nombre: "No. 9 NAD Bio Lifting Essence 3-in-1 Sachet"
 marca: numbuzin
-wc_id: null
+wc_id: 2649
 publicado: no-publicado
 linea: skincare
 categoria: "Tratamientos — Serums & Ampoules"
@@ -17,7 +17,7 @@ tags: [deal, mini]
 ultima_sync_wc: null
 ---
 
-> ⚠️ Producto no vinculado a WooCommerce (`wc_id: null` en frontmatter) — sin imagen ni ficha en tienda por ahora.
+> ℹ️ Existe en WooCommerce (`wc_id: 2649`, SKU `BVASSTV02366NOC01S0003`) en estado `private` — no visible en la tienda pública. Confirmado vía GET de solo lectura (sesión 45, 24-jul-2026).
 
 # No. 9 NAD Bio Lifting Essence 3-in-1 Sachet
 
@@ -33,5 +33,6 @@ ultima_sync_wc: null
 - Sachet; rol idéntico
 
 ## Nota
-Versión sachet/muestra. No publicado en WooCommerce.
+Versión sachet/muestra. Existe en WooCommerce (`wc_id: 2649`) en estado
+`private`, no publicado.
 Producto full-size relacionado: [[products/2648-numbuzin-no-9-nad-bio-lifting-essence]]

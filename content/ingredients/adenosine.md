@@ -11,6 +11,12 @@ evitar_combinar_con: []
 ## Qué hace en skincare
 Nucleósido con función señalizadora. Ingrediente **aprobado como funcional anti-arrugas por el MFDS coreano**, con evidencia de mejora en arrugas y firmeza a bajas concentraciones. También calmante y de soporte a la barrera.
 
+## Origen y proceso de obtención
+[pendiente]
+
+## Dato curioso
+[pendiente]
+
 ## Concentraciones comunes
 0.04–0.1% (dosis funcional reconocida en Corea).
 

@@ -3,6 +3,22 @@
 **Origen:** Corea del Sur
 **Segmento:** [pendiente]
 
+## Historia
+[pendiente]
+
+## Misión y filosofía
+[pendiente]
+
+## Producto(s) estrella
+### En catálogo Navi
+[pendiente]
+
+### Fuera de catálogo
+[pendiente]
+
+## Presencia y novedades recientes
+[pendiente]
+
 ## Productos en catálogo Navi
 - [[products/2529-medicube-zero-pore-pad-2-0]] — Zero Pore Pad 2.0
 - [[products/2534-medicube-pdrn-pink-collagen-capsule-cream]] — PDRN Pink Collagen Capsule Cream

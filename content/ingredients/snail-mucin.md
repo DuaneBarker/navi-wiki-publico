@@ -11,6 +11,12 @@ evitar_combinar_con: []
 ## Qué hace en skincare
 Filtrado de secreción de caracol. Mezcla de glicoproteínas, ácido hialurónico, glicólico, péptidos y alantoína. Humecta, da sensación reparadora y de barrera, y ayuda a la cicatrización superficial. Popular por textura y confort más que por un activo único potente.
 
+## Origen y proceso de obtención
+[pendiente]
+
+## Dato curioso
+[pendiente]
+
 ## Concentraciones comunes
 90–96% de filtrado en esencias tipo "all-in-one".
 

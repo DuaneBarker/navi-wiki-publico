@@ -3,7 +3,7 @@ tipo: producto
 schema: 1
 nombre: "Madagascar Centella Probio-Cica Enrich Cream (15ml)"
 marca: SKIN1004
-wc_id: null
+wc_id: 2586
 publicado: no-publicado
 linea: skincare
 categoria: "Tratamientos — Cremas"
@@ -17,7 +17,7 @@ tags: [deal, mini]
 ultima_sync_wc: null
 ---
 
-> ⚠️ Producto no vinculado a WooCommerce (`wc_id: null` en frontmatter) — sin imagen ni ficha en tienda por ahora.
+> ℹ️ Existe en WooCommerce (`wc_id: 2586`, SKU `BVASSTV01766NOC01M0015`) en estado `private` — no visible en la tienda pública. Confirmado vía GET de solo lectura (sesión 45, 24-jul-2026).
 
 # Madagascar Centella Probio-Cica Enrich Cream (15ml)
 

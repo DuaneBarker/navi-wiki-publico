@@ -15,6 +15,7 @@ ingredientes: [ceramidas]
 skin_concerns: [barrera-danada]
 tags: []
 ultima_sync_wc: 2026-07-04
+stock_status: discontinued
 ---
 
 ![Dr. Althea - 147 Barrier Cream](https://navishop.com.mx/wp-content/uploads/2026/01/Dr.-Althea-147-Barrier-Cream.avif)

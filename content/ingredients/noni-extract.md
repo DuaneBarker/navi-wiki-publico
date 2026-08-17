@@ -11,6 +11,12 @@ evitar_combinar_con: []
 ## Qué hace en skincare
 Extracto de la fruta Morinda citrifolia (noni), rico en vitamina C, aminoácidos y polifenoles. Antioxidante y de aporte luminoso; se usa en tóners y esencias "vita" para piel apagada. Beneficios cosméticos suaves, más de soporte antioxidante que de activo clínico.
 
+## Origen y proceso de obtención
+[pendiente]
+
+## Dato curioso
+[pendiente]
+
 ## Concentraciones comunes
 Variable; a veces declarado como alto % de extracto en tóners.
 

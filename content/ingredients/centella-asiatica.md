@@ -11,6 +11,12 @@ evitar_combinar_con: []
 ## Qué hace en skincare
 Extracto botánico rico en triterpenos (asiaticósido, madecassósido, ácidos asiático y madecásico). Calma inflamación, apoya la reparación de barrera y estimula síntesis de colágeno. Ingrediente estrella para piel sensible y enrojecida ("cica").
 
+## Origen y proceso de obtención
+[pendiente]
+
+## Dato curioso
+[pendiente]
+
 ## Concentraciones comunes
 Variable según extracto; a menudo listada como % de extracto (5–20%) o por sus fracciones activas aisladas. Ver [[ingredients/probio-cica]] y [[ingredients/madecassoside]] para formas concentradas.
 
@@ -30,6 +36,7 @@ Variable según extracto; a menudo listada como % de extracto (5–20%) o por su
 - [[ingredients/niacinamide]] — calma + barrera
 - [[ingredients/panthenol]] — refuerzo calmante/reparador
 - [[ingredients/retinal]] — mitiga la irritación del retinoide (buffer calmante)
+- [[ingredients/bifida-ferment]] — dúo calmante en esencias fermentadas
 
 ## NO combinar con
 Sin contraindicaciones conocidas. Es un calmante; se usa precisamente para amortiguar activos agresivos.

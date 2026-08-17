@@ -11,6 +11,12 @@ evitar_combinar_con: ["[[ingredients/aha-bha-pha]]", "[[ingredients/bha-acido-sa
 ## Qué hace en skincare
 Retinaldehído: retinoide un paso más cerca del ácido retinoico que el retinol, por lo que es más potente que este (requiere una sola conversión). Acelera renovación celular, estimula colágeno, mejora arrugas, textura, poros e hiperpigmentación. También tiene cierta acción antibacteriana útil en acné.
 
+## Origen y proceso de obtención
+[pendiente]
+
+## Dato curioso
+[pendiente]
+
 ## Concentraciones comunes
 0.05–0.1% típico.
 

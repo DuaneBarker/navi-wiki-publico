@@ -13,6 +13,12 @@ Alfa-hidroxiácidos (glicólico, láctico, mandélico) hidrosolubles. Exfolian e
 
 Nota: esta página cubre AHA (y el combo AHA-BHA-PHA como categoría de producto). Para BHA/ácido salicílico ver [[ingredients/bha-acido-salicilico]]; para PHA ver [[ingredients/pha]].
 
+## Origen y proceso de obtención
+[pendiente]
+
+## Dato curioso
+[pendiente]
+
 ## Concentraciones comunes
 5–10% OTC (concentraciones altas y peelings son de uso profesional).
 

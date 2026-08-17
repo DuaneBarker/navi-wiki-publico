@@ -11,6 +11,12 @@ evitar_combinar_con: []
 ## Qué hace en skincare
 Humectante: atrae y retiene agua en el estrato córneo. Distintos pesos moleculares actúan a distintas profundidades (bajo peso penetra más). Da hidratación y efecto relleno superficial inmediato. No es exfoliante ni "ácido" en sentido irritante pese al nombre.
 
+## Origen y proceso de obtención
+[pendiente]
+
+## Dato curioso
+[pendiente]
+
 ## Concentraciones comunes
 0.1–2%.
 

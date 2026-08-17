@@ -11,6 +11,12 @@ evitar_combinar_con: []
 ## Qué hace en skincare
 Factor de crecimiento (proteína señalizadora) que en heridas promueve proliferación celular. En cosmética se le atribuyen efectos anti-edad/regeneradores. **Muy debatido**: es una proteína grande de penetración dudosa, la estabilidad en fórmula es difícil y existe discusión teórica sobre estimular proliferación celular en piel (planteada más como precaución que como riesgo demostrado). Evidencia cosmética limitada.
 
+## Origen y proceso de obtención
+[pendiente]
+
+## Dato curioso
+[pendiente]
+
 ## Concentraciones comunes
 Cantidades ínfimas (activo biotecnológico); rara vez cuantificado de forma útil.
 
